@@ -1,5 +1,5 @@
-# Matrix Multiplication
-# Function: Dot product of 2 matrices
+# Matrix Addition
+# Function: Finds the sum of 2 matrices
 
 def read_matrix(input):                         #   Read file
     file = open(input, "r")
