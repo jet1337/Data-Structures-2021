@@ -26,21 +26,21 @@ def mergeSort(alist):
         while i<len(lefthalf) and j<len(righthalf):
             if lefthalf[i]<righthalf[j]:
                 alist[k]=lefthalf[i]
-                i=i+1
+                i+=1
             else:
                 alist[k]=righthalf[j]
-                j=j+1
-            k=k+1
+                j+=1
+            k+=1
 
         while i<len(lefthalf):
             alist[k]=lefthalf[i]
-            i=i+1
-            k=k+1
+            i+=1
+            k+=1
 
         while j<len(righthalf):
             alist[k]=righthalf[j]
-            j=j+1
-            k=k+1
+            j+=1
+            k+=1
 
 def shuffle(myList):
     for fromIndex in range(len(myList)):

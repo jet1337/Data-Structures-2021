@@ -20,6 +20,7 @@ linkedinsert.py - Insert words into a linked list in alphabetical order
 
 palistack.py - Check if a sentence is palindrome (uses Stack ADT)
 
+# mergesort & quicksort original code specified in files
 mergesort.py - perform merge sort on a list
 
 quicksort.py - perform quick sort on a list
