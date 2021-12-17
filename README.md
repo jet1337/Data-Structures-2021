@@ -20,6 +20,8 @@ linkedinsert.py - Insert words into a linked list in alphabetical order
 
 palistack.py - Check if a sentence is palindrome (uses Stack ADT)
 
+hanoi.py - prints the moves required to solve a hanoi puzzle of any disc difficulty
+
 # mergesort & quicksort original code specified in files
 mergesort.py - perform merge sort on a list
 
@@ -29,6 +31,8 @@ dijkstra.py - find shortest path in a graph represented by an adjacency matrix
 
 # Supporting files
 adjmat.txt - adjacency matrix for dijkstra.py
+
+hanoi.txt - input for hanoi.py
 
 stack.py - stack class
 
