@@ -4,36 +4,51 @@ Assignments from COP 4538
 Various Algorithms and Data Structures coded in Python
 
 # Files
-maxmin.py - Find the max and min values in a list
+<b>maxmin.py</b>
+Find the max and min values in a list
 
-trendchange.py - Find the points where the upward/downward trend changes in a list
+<b>trendchange.py</b>
+Find the points where the upward/downward trend changes in a list
 
-matsum.py - Find the sum of two matrices
+<b>matsum.py</b>
+Find the sum of two matrices
 
-listdupes.py - Find the duplicate numbers in a list
+<b>listdupes.py</b>
+Find the duplicate numbers in a list
 
-linkedmerge.py - Merge sort a linked list
+<b>linkedmerge.py</b>
+Merge sort a linked list
 
-hashchain.py - Create a hash chain from a seed value of specified length
+<b>hashchain.py</b>
+Create a hash chain from a seed value of specified length
 
-linkedinsert.py - Insert words into a linked list in alphabetical order
+<b>linkedinsert.py</b>
+Insert words into a linked list in alphabetical order
 
-palistack.py - Check if a sentence is palindrome (uses Stack ADT)
+<b>palistack.py</b>
+Check if a sentence is palindrome (uses Stack ADT)
 
-hanoi.py - prints the moves required to solve a hanoi puzzle of any disc difficulty
+<b>hanoi.py</b>
+prints the moves required to solve a hanoi puzzle of any disc difficulty
 
-# mergesort & quicksort original code specified in files
-mergesort.py - perform merge sort on a list
+<b>mergesort.py</b>
+perform merge sort on a list
 
-quicksort.py - perform quick sort on a list
+<b>quicksort.py</b>
+perform quick sort on a list
 
-dijkstra.py - find shortest path in a graph represented by an adjacency matrix
+<b>dijkstra.py</b>
+find shortest path in a graph represented by an adjacency matrix
 
 # Supporting files
-adjmat.txt - adjacency matrix for dijkstra.py
+<b>adjmat.txt</b>
+adjacency matrix for dijkstra.py
 
-hanoi.txt - input for hanoi.py
+<b>hanoi.txt</b>
+input for hanoi.py
 
-stack.py - stack class
+<b>stack.py</b>
+stack class
 
-node.py - node class
+<b>node.py</b>
+node class
